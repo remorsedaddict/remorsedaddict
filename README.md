@@ -21,3 +21,12 @@
 <p align="center">
     🔥
 </p>
+
+
+<p align="center">
+    <img width="200" src="https://cdn.discordapp.com/attachments/1266570127470760079/1308736614364614727/Untitled586_20241120180937.png?ex=673f0774&is=673db5f4&hm=719520bdf1f393f8d6c617138c0613ec4eba155b66d4015645f43ef14df989f7&" alt="Material Bread logo">
+</p>
+
+<p align="center">
+    It’s.. Fine, I still have something to lead for!
+</p>
