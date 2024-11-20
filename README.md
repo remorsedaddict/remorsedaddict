@@ -34,3 +34,7 @@
 <p align="center">
     creds to artists ><
 </p>
+
+<p align="center">
+    <img width="200" src="https://cdn.discordapp.com/attachments/1266570127470760079/1308740857771458591/56efdfe9559fb177e8b7348ee715d7eb.gif?ex=673f0b67&is=673db9e7&hm=1156af195b9046d97d158fa3373a3ae3a326001c10364af5a3a3d586a1e8c569&" alt="Material Bread logo">
+</p>
