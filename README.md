@@ -30,3 +30,7 @@
 <p align="center">
     It’s.. Fine, I still have something to lead for!
 </p>
+
+<p align="center">
+    creds to artists ><
+</p>
