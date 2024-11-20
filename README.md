@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-    “ I lied to look worthy in front of him. ”
+    I lied to look worthy in front of him.
 </p>
